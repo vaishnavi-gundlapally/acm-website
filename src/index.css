@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+h1{
+  color: #51a4c7;
+}
+.table{
+  border: 3px solid #51a4c7;
+  text-align: center;
+  border-collapse: separate;
+}
+tr{
+  display: table-row;
+  background-color: #e0e0e0;
+}
+tr:hover{
+  color:#51a4c7
+}
+th{
+  background-color: dodgerblue;
+}
+thead{
+  color: black ;
+}
+body{
+  margin: auto;
+  color:black;
+  font-family: 'Lato', 'Arial', sans-serif;
+
+ 
+}
