@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acm-website/static/css/main.885cbbb7.css",
+    "main.js": "/acm-website/static/js/main.4aad2278.js",
+    "static/js/787.0edbcda9.chunk.js": "/acm-website/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/acm-website/index.html",
+    "main.885cbbb7.css.map": "/acm-website/static/css/main.885cbbb7.css.map",
+    "main.4aad2278.js.map": "/acm-website/static/js/main.4aad2278.js.map",
+    "787.0edbcda9.chunk.js.map": "/acm-website/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.885cbbb7.css",
+    "static/js/main.4aad2278.js"
+  ]
+}
